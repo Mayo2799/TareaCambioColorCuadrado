@@ -1,0 +1,25 @@
+body,
+.contenedor {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.contenedor {
+  border: 1px solid black;
+  flex-direction: column;
+  height: 500px;
+  width: 800px;
+}
+
+.cuadro {
+  border: 1px solid black;
+  height: 245px;
+  width: 245px;
+}
+
+.formulario {
+  padding-top: 20px;
+}

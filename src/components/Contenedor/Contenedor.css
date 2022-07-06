@@ -9,7 +9,6 @@ body,
 
 .contenedor {
   border: 1px solid black;
-  flex-direction: column;
   height: 500px;
   width: 800px;
 }
@@ -22,4 +21,8 @@ body,
 
 .formulario {
   padding-top: 20px;
+}
+
+.campos {
+  margin: 5px;
 }
